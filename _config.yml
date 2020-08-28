@@ -31,7 +31,7 @@ github_username:  jtebert
 heading_anchors: true
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "&copy; 2019&ndash;2020 by Julia Ebert"
+footer_content: "&copy; 2019&ndash;2020 by Karthik Selvam"
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
@@ -55,13 +55,14 @@ kramdown:
 # Configuration for just-the-docs
 
 # Enable or disable the site search
-search_enabled: true
+# search_enabled: true
+search_enabled: false
 # Aux links for the upper right navigation
-aux_links:
-    "Home":
-      - "//Mindfultrading.in"
-    "Github":
-      - "//github.com/karthiikselvam"
+#aux_links:
+ #   "Home":
+  #    - "//Mindfultrading.in"
+   # "Github":
+    #  - "//github.com/karthiikselvam"
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: "jtebert"
 

@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<style>
+ <style>   * {
+    transition: all 0.3s ease-out;
+}
   /* Float four columns side by side */
 .column {
   float: left;
@@ -36,18 +38,93 @@ layout: default
   text-align: left ;
   background-color: #F5F6FA;
 }
-</style>
 
-<h1>Posts</h1>
+/*test */ 
+p {
+	 font-size: 17px;
+	 font-weight: 400;
+	 line-height: 20px;
+	 color: #666;
+}
+ p.small {
+	 font-size: 14px;
+}
+ .go-corner {
+	 display: flex;
+	 align-items: center;
+	 justify-content: center;
+	 position: absolute;
+	 width: 32px;
+	 height: 32px;
+	 overflow: hidden;
+	 top: 0;
+	 right: 0;
+	 background-color: #03bc25;
+	 border-radius: 0 4px 0 32px;
+}
+ .go-arrow {
+	 margin-top: -4px;
+	 margin-right: -4px;
+	 color: rgb(12, 4, 4);
+	 font-family: courier, sans;
+}
+ .card1 {
+	 display: block;
+	 position: relative;
+	/* max-width: 262px; */
+	 background-color: #F5F6FA;
+	 border-radius: 4px;
+	 padding: 20px 20px;
+/*	 margin: 12px; */
+	 text-decoration: none;
+	 z-index: 0;
+	 overflow: hidden;
+}
+ .card1:before {
+	 content: "";
+	 position: absolute;
+	 z-index: -1;
+	 top: -16px;
+	 right: -16px;
+	 background: #03bc25;
+	 height: 32px;
+	 width: 32px;
+	 border-radius: 32px;
+	 transform: scale(1);
+	 transform-origin: 50% 50%;
+	 transition: transform 0.25s ease-out;
+}
+ .card1:hover:before {
+	 transform: scale(21);
+}
+ .card1:hover p {
+	 transition: all 0.3s ease-out;
+	 color: rgba(255, 255, 255, 0.8);
+}
+ .card1:hover h3 {
+	 transition: all 0.3s ease-out;
+	 color: #fff;
+}
+ 
+</style> 
+
+<h1 style=" text-align: center;">Blog</h1>
 {% for post in site.posts %}
 <div class="row">
     <div class="column">
-      <div class="card">
+      <div class="card1">
         <h4>{{post.date | date_to_long_string }}</h4>
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
      <!--  <h4><a href="{{post.categories}}"></a>{{post.categories}}</h4> -->
+     <div class="go-corner" href="{{post.url}}">
+        <div class="go-arrow">
+          →
+        </div>
       </div>
+     </div>
     </div>
 </div>
 <br>
 {% endfor %}
+
+
