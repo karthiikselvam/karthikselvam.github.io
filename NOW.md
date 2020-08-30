@@ -2,7 +2,7 @@
 layout: page
 title: What I'm Doing NOW 
 permalink: /NOW
-nav_order: 8
+nav_order: 10
 image: /assets/img/undraw_to_do_list_a49b.svg
 image_alt: Human-sized To Do list
 ---

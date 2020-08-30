@@ -19,6 +19,9 @@ This is a subset of the things I've designed, in approximately reverse-chronolog
 {:.left}
 
 I didn't like any of the pill boxes you could buy, so I made my own. I wanted something that's compact, reliable, and looks cool.
+Numbered equations
+
+$$ \begin{equation} \int_0^x \sin(x) dx \label{eq:test} \end{equation} $$
 
 **Models:** [PrusaPrinters](https://www.prusaprinters.org/prints/35457), [Thingiverse](https://www.thingiverse.com/thing:4502015)
 
