@@ -2,7 +2,7 @@
 layout: page
 title: Quarantine Bot
 label: In Progress
-grand_parent: Side Projects
+grand_parent: Projects
 parent: 2020
 permalink: /projects/quarantine-bot
 date: 2020-03-29

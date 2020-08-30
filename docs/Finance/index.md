@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Linux
+title: Finance
 has_children: true
-permalink: /linux
-nav_order: 4
+permalink: /Finance
+nav_order: 3
 image: /assets/img/undraw_programmer_imem.svg
 image_alt: So many monitors
 ---

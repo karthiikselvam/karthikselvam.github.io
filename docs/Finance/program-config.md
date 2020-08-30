@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Program Configuration
-parent: Linux
+parent: Finance
 nav_order: 2
-permalink: /linux/program-config
+permalink: /Finance/program-config
 ---
 
 1. TOC

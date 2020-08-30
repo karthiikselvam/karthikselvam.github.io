@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Designs & Models
-parent: 3D Printing
+parent: AI & Enggineering
 nav_order: 1
-permalink: /3d-printing/designs
+permalink: /AI&Engg/designs
 ---
 
 - TOC

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Useful Tips
-parent: Linux
+parent: Finance
 nav_order: 5
-permalink: /linux/tips
+permalink: /Finance/tips
 ---
 
 1. TOC

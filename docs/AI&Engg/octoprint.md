@@ -1,9 +1,9 @@
 ---
 layout: page
 title: OctoPrint
-parent: 3D Printing
+parent: AI & Enggineering
 nav_order: 3
-permalink: /3d-printing/octoprint
+permalink: /AI&Engg/octoprint
 ---
 
 1. TOC

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Kilobots
+title: Health
 parent: Research
 nav_order: 2
-permalink: /research/kilobots
+permalink: /Health/kilobots
 ---
 
 1. TOC

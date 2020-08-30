@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Programming
-permalink: /programming
+title: Book Notes and Reviews
+permalink: /Book
 has_children: true
-nav_order: 5
+nav_order: 6
 image: /assets/img/undraw_code_review_l1q9.svg
 image_alt: Code
 ---

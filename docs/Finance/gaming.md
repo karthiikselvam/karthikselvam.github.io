@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Gaming
-parent: Linux
+parent: Finance
 nav_order: 1.1
-permalink: /linux/gaming
+permalink: /Finance/gaming
 ---
 
 1. TOC

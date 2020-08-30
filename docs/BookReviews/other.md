@@ -1,9 +1,9 @@
 ---
 layout: page
-parent: Programming
-title: Miscellaneous
+parent: Music
+title: Book Notes and Reviews
 nav_order: 3
-permalink: /programming/other
+permalink: /Book/other
 ---
 
 1. TOC

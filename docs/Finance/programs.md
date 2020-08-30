@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Programs to Install
-parent: Linux
+parent: Finance
 nav_order: 3
-permalink: /linux/programs
+permalink: /Finance/programs
 ---
 
 1. TOC

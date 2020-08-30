@@ -1,9 +1,9 @@
 ---
 layout: page
 title: System Configuration
-parent: Linux
+parent: Finance
 nav_order: 4
-permalink: /linux/system-config
+permalink: /Finance/system-config
 ---
 
 - TOC

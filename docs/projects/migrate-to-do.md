@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Migrating a website to DigitalOcean
-grand_parent: Side Projects
+grand_parent: Projects
 parent: 2020
 permalink: /projects/migrate-to-do
 date: 2020-01-03

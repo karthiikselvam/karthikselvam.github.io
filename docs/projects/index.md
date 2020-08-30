@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Side Projects
+title:  Projects
 has_children: true
 permalink: projects
 nav_order: 7

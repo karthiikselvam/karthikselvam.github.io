@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Web Development
-parent: Programming
+parent: Miscellaneous
 nav_order: 2
-permalink: /programming/web
+permalink: /Miscellaneous/web
 ---
 
 1. TOC

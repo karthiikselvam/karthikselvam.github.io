@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Modding
-parent: 3D Printing
+parent: AI & Enggineering
 nav_order: 2
-permalink: /3d-printing/modding
+permalink: /AI&Engg/modding
 ---
 
 1. TOC

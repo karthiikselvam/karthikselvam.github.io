@@ -36,4 +36,4 @@ These are things I want to learn how to do or try out. Not for work or anything.
 - 10 mins of Coding.
 - 5 to 6 Hours of Artifical Intelligience.
 
-10 mins of something daily adds up. Trust Me.
+Usually it starts with 10 mins eventually it leads to 20 to 30 mins and it adds up daily. Trust Me.

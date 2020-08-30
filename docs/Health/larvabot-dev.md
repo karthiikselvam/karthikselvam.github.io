@@ -1,9 +1,9 @@
 ---
 layout: page
 title: LARVAbot Development
-parent: Research
+parent: Health
 nav_order: 3
-permalink: /research/larvabot-dev
+permalink: /Health/larvabot-dev
 ---
 
 1. TOC

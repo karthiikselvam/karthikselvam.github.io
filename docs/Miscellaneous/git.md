@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Git Cheat Sheet
-parent: Programming
+parent: Miscellaneous
 nav_order: 1
-permalink: /programming/git
+permalink: /Miscellaneous/git
 ---
 
 1. TOC

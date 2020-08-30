@@ -1,9 +1,9 @@
 ---
 layout: page
 title: LARVAbot
-parent: Research
+parent: Health
 nav_order: 4
-permalink: /research/larvabot
+permalink: /Health/larvabot
 ---
 
 1. TOC

@@ -1,9 +1,9 @@
 ---
 layout: page
-parent: Research
+parent: Health
 title: Graphics
 nav_order: 1
-permalink: /research/graphics
+permalink: /Health/graphics
 ---
 
 1. TOC

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Chrome OS
-parent: Linux
+parent: Finance
 nav_order: 1
-permalink: /linux/chrome-os
+permalink: /Finance/chrome-os
 ---
 
 1. TOC

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Z shell
-parent: Linux
+parent: Finance
 nav_order: 5
-permalink: /linux/zsh
+permalink: /Finance/zsh
 ---
 
 1. TOC

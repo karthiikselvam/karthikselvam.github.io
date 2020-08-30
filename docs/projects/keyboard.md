@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creating a Keyboard
-grand_parent: Side Projects
+grand_parent: Projects
 parent: 2019
 permalink: /projects/keyboard
 date: 2019-12-17
