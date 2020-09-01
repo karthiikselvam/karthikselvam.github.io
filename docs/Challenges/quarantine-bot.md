@@ -2,9 +2,9 @@
 layout: page
 title: Quarantine Bot
 label: In Progress
-grand_parent: Projects
+grand_parent: Challenges
 parent: 2020
-permalink: /projects/quarantine-bot
+permalink: /challenges/quarantine-bot
 date: 2020-03-29
 nav_order: 97
 ---

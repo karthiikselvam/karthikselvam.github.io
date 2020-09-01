@@ -106,25 +106,25 @@ p {
 	 color: #fff;
 }
  
-</style> 
+</style>  
 
 <h1 style=" text-align: center;">Blog</h1>
 {% for post in site.posts %}
-<div class="row">
-    <div class="column">
-      <div class="card1">
-        <h4>{{post.date | date_to_long_string }}</h4>
-        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-     <!--  <h4><a href="{{post.categories}}"></a>{{post.categories}}</h4> -->
-     <div class="go-corner" href="{{post.url}}">
-        <div class="go-arrow">
-          →
-        </div>
-      </div>
-     </div>
-    </div>
-</div>
+<a href="{{post.url}}">
+	<div class="row">
+		<div class="row">
+			<div class="card1">
+				<h4>{{post.date | date_to_long_string }}</h4>
+				<h3><a href="{{post.url}}">{{post.title}}</a></h3>
+				<div class="go-corner" href="{{post.url}}">
+					<div class="go-arrow">
+						→
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</a>
 <br>
 {% endfor %}
-
 

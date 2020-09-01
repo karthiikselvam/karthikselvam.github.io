@@ -2,9 +2,9 @@
 layout: page
 title: Plotter
 label: In Progress
-grand_parent: Projects
+grand_parent: Challenges
 parent: 2020
-permalink: /projects/plotter
+permalink: /challenges/plotter
 date: 2020-07-26
 nav_order: 96
 ---

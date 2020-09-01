@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Migrating a website to DigitalOcean
-grand_parent: Projects
+grand_parent: Challenges
 parent: 2020
-permalink: /projects/migrate-to-do
+permalink: /challenges/migrate-to-do
 date: 2020-01-03
 nav_order: 100
 ---

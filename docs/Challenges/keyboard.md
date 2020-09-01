@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Creating a Keyboard
-grand_parent: Projects
+grand_parent: Challenges
 parent: 2019
-permalink: /projects/keyboard
+permalink: /challenges/keyboard
 date: 2019-12-17
 nav_order: 100
 ---

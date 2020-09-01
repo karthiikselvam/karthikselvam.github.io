@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Powerful Pi
-grand_parent: Projects
+grand_parent: Challenges
 parent: 2020
-permalink: /projects/power-pi
+permalink: /challenges/power-pi
 date: 2020-01-11
 nav_order: 99
 ---

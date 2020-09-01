@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Projects
+title:  Challenges
 has_children: true
-permalink: projects
+permalink: challenges
 nav_order: 7
 has_toc: false
 image: /assets/img/undraw_online_test_gba7.svg
@@ -23,11 +23,12 @@ This is rough contemporaneous documentation of projects I'm working on. Its main
 ## Table of contents
 {:.text-delta}
 
-- [2020](/projects/2020)
-  - [Plotter](/projects/plotter)
-  - [Quarantine Bot](/projects/quarantine-bot)
-  - [Infinity ErgoDox Configuration](/projects/infinity-ergodox)
-  - [Migrating a website to DigitalOcean](/projects/migrate-to-do)
-  - [Powerful Pi](/projects/power-pi)
-- [2019](/projects/2019)
-  - [Creating a Keyboard](/projects/keyboard)
+- [2020](/challenges/2020)
+  - [September](/challenges/september-challenge)
+  - [Plotter](/Challenges/plotter)
+  - [Quarantine Bot](/challenges/quarantine-bot)
+  - [Infinity ErgoDox Configuration](/challenges/infinity-ergodox)
+  - [Migrating a website to DigitalOcean](/challenges/migrate-to-do)
+  - [Powerful Pi](/challenges/power-pi)
+- [2019](/challenges/2019)
+  - [Creating a Keyboard](/challenges/keyboard)
