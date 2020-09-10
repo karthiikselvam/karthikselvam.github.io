@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   something useful, that's cool too.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karthiikselvam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jtebert
-github_username:  jtebert
+twitter_username: karthiikselvam
+github_username:  karthiikselvam
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
