@@ -52,6 +52,8 @@ kramdown:
   toc_levels: "2"
   parse_block_html: true
 
+
+
 # Configuration for just-the-docs
 
 # Enable or disable the site search
