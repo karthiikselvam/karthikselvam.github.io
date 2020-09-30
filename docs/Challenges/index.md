@@ -24,6 +24,7 @@ This is rough contemporaneous documentation of projects I'm working on. Its main
 {:.text-delta}
 
 - [2020](/challenges/2020)
+  - [October](/challenges/october-challenge)
   - [September](/challenges/september-challenge)
   - [Plotter](/Challenges/plotter)
   - [Quarantine Bot](/challenges/quarantine-bot)
