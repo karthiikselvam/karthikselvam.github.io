@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Book Notes and Reviews
-permalink: /Book
+title: Book Notes 
+permalink: /book
 has_children: true
 nav_order: 8
 image: /assets/img/undraw_code_review_l1q9.svg

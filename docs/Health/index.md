@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Health
-permalink: /Health
+permalink: /health
 nav_order: 4
 has_children: true
 image: /assets/img/undraw_firmware_mf69.svg

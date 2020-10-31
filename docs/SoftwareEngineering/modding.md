@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Modding
-parent: AI & Enggineering
+parent: Software Engineering
 nav_order: 2
-permalink: /AI&Engg/modding
+permalink: /software&engineering/modding
 ---
 
 1. TOC

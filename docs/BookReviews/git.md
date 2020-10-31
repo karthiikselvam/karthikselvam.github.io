@@ -3,7 +3,7 @@ layout: page
 title: Git Cheat Sheet
 parent: Book Notes and Reviews
 nav_order: 1
-permalink: /Book/git
+permalink: /book/git
 ---
 
 1. TOC

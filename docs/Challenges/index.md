@@ -24,12 +24,10 @@ This is rough contemporaneous documentation of projects I'm working on. Its main
 {:.text-delta}
 
 - [2020](/challenges/2020)
+  - [November](/challenges/november-challenge)
   - [October](/challenges/october-challenge)
   - [September](/challenges/september-challenge)
-  - [Plotter](/Challenges/plotter)
-  - [Quarantine Bot](/challenges/quarantine-bot)
-  - [Infinity ErgoDox Configuration](/challenges/infinity-ergodox)
-  - [Migrating a website to DigitalOcean](/challenges/migrate-to-do)
-  - [Powerful Pi](/challenges/power-pi)
+  
+
 - [2019](/challenges/2019)
   - [Creating a Keyboard](/challenges/keyboard)

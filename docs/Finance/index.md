@@ -2,7 +2,7 @@
 layout: page
 title: Finance
 has_children: true
-permalink: /Finance
+permalink: /finance
 nav_order: 3
 image: /assets/img/undraw_programmer_imem.svg
 image_alt: So many monitors

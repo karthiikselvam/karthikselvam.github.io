@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-permalink: /Miscellaneous
+permalink: /miscellaneous
 has_children: true
 nav_order: 6
 image: /assets/img/undraw_code_review_l1q9.svg

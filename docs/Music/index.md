@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-permalink: /Music
+permalink: /music
 has_children: true
 nav_order: 5
 image: /assets/img/undraw_code_review_l1q9.svg

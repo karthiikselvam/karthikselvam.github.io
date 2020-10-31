@@ -3,7 +3,7 @@ layout: page
 title: Web Development
 parent: Book Notes and Reviews
 nav_order: 2
-permalink: /Book/web
+permalink: /book/web
 ---
 
 1. TOC

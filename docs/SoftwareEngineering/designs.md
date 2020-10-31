@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Designs & Models
-parent: AI & Enggineering
+parent: Software Engineering
 nav_order: 1
-permalink: /AI&Engg/designs
+permalink: /software&engineering/designs
 ---
 
 - TOC

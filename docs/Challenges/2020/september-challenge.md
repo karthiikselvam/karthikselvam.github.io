@@ -1,7 +1,7 @@
 ---
 layout: page
 title: September Challenge
-label: Done
+label: Completed
 grand_parent: Challenges
 parent: 2020
 permalink: /challenges/september-challenge

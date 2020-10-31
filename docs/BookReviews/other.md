@@ -3,7 +3,7 @@ layout: page
 parent: Music
 title: Book Notes and Reviews
 nav_order: 3
-permalink: /Book/other
+permalink: /book/other
 ---
 
 1. TOC

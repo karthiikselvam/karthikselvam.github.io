@@ -1,9 +1,9 @@
 ---
 layout: page
 title: OctoPrint
-parent: AI & Enggineering
+parent: Software Engineering
 nav_order: 3
-permalink: /AI&Engg/octoprint
+permalink: /software&engineering/octoprint
 ---
 
 1. TOC
