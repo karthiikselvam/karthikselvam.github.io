@@ -45,4 +45,4 @@ Here are the steps.
 
 8.Finally after the session ends check  whether  the outcome  was achieved  ? if not ask yourself Why ? Note the answer. if this answers keeps repeating you need to fix this.
 
-Don't be hard on yourself first 10 to 20 sessions  are going to be  very tough like many things in life its uncomfortable at first but you will get used it. Think of this as a training session for your mind just focus on one thing train regularly consistency is the key.
+Don't be hard on yourself first 10 to 20 sessions  are going to be  very tough like many things in life its uncomfortable at first but you will get used it think of this as a training session for your mind just focus on one thing train regularly consistency is the key.
