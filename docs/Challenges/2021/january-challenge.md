@@ -40,7 +40,7 @@ nav_order: 98
 
 ## Music
 
-* Learn to play Gududiya sedi nodo.
+* Learn to play Gudugudiya sedi nodo.
 
 
 ## Constraints
