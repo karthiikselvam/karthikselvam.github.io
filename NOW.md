@@ -7,10 +7,11 @@ image: /assets/img/undraw_to_do_list_a49b.svg
 image_alt: Human-sized To Do list
 ---
 
-## What I'm working on ? 
+## What I'm working on ?
 
 ## Work
 
+- Studying Mtech.
 - Lots of Coding - AI , Algo & DS.
 
 ## MUSIC

@@ -23,6 +23,9 @@ This is rough contemporaneous documentation of projects I'm working on. Its main
 ## Table of contents
 {:.text-delta}
 
+- [2021](/challenges/2021)
+  - [January](/challenges/january-challenge)
+
 - [2020](/challenges/2020)
   - [December](/challenges/december-challenge)
   - [November](/challenges/november-challenge)
